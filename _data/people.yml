@@ -1,0 +1,22 @@
+instructors:
+  - name: Plaban Kumar Bhowmick
+    profile_pic: /_images/pp/Pkb2.jpg
+    webpage: http://iitkgp.ac.in/department/GS/faculty/gs-plaban
+
+
+teaching_assistants:
+  - name: Animesh
+    profile_pic: /_images/pp/Animesh.jpg
+    email: ainimesh1@gmail.com
+    webpage: https://www.linkedin.com/in/animeshsachan/
+  
+  - name: Sayantan Saha
+    profile_pic: /_images/pp/shyantan.jpg
+    email: sayantan.sh@gmail.com
+    webpage: https://www.linkedin.com/in/sayantan-saha-332a4440/
+
+  #- name: Nilanjan Mukharjee
+  #  profile_pic: /_images/pp/nilanjan.jpg
+  #  email: nmnilu6@gmail.com
+  #  webpage: 
+    
