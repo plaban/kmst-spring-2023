@@ -7,9 +7,9 @@ relational data. The course also introduces scalable machine learning algorithms
 use Databricks cloud platform for hands-on demo. The students can use Databricks or any other cluster
 computing framework for their assignments."
 
-course_semester: "Autumn,2022"
+course_semester: "Spring,2022-23"
 
-baseurl: "/GMLFA-AI60007" # the subpath of your site, e.g. /blog/
+baseurl: "/bdp-ai60004" # the subpath of your site, e.g. /blog/
 url: "http://ainimesh.github.io/" # the base hostname & protocol for your site
 
 schoolname: "CoE-AI, IIT Kharagpur"
