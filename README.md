@@ -1,3 +1,8 @@
+# This web-page is based on the below template:
+
+Source : https://github.com/kazemnejad/jekyll-course-website-template
+
+
 # Features
 - Individual page for assignments, lectures, course material, course schedule
 - Auto generated Course schedule Page
