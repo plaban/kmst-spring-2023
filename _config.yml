@@ -1,0 +1,55 @@
+# Site settings
+course_name: Graph Machine Learning Foundations and Applications (AI60007)
+course_description: "Graphs have widely been used in representing problem scenarios in different domains. Subsequently, several computational models have been developed to process graph representations. Machine learning, like in many other domains, have been used to model different tasks on graphs including graph clustering, node classification, link prediction etc. Deep learning models though are proven to be very effective in domains like computer vision, text processing etc., cannot be directly applicable in irregular data representation like graphs. Subsequently, a new paradigm of machine learning (graph machine learning) has emerged. Right from its emergence, it has been widely adopted in diverse domains including social networks, protein-protein interaction networks, drug disease interactions etc. Along with its effectiveness on graph data, graph machine learning has also improved the state-of-art in the domains (e.g., computer vision, text processing) where traditional deep learning architectures have ruled. Considering the rapid adoption of graph machine learning and its effectiveness, this course is proposed to develop the theoretical foundation of graph machine learning models and their use in real world applications in diverse domains."
+
+course_semester: "Autumn,2022"
+
+baseurl: "/GMLFA-AI60007" # the subpath of your site, e.g. /blog/
+url: "http://ainimesh.github.io/" # the base hostname & protocol for your site
+
+schoolname: "CoE-AI, IIT Kharagpur"
+schoolurl: "http://www.ai.iitkgp.ac.in/"
+#twitter_username: username 
+
+address: |
+    Center of Excellence in Artififial Intelligence
+    IIT Kharagpur, 721302
+    West Bengal, India
+
+# Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
+# google_analytics: UA-XXXXXXXX-X
+
+### Do not change the followings unless you know what you are doing ###
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+    lectures:
+        output: true
+    assignments:
+        output: true
+    announcements:
+        output: false
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
+
+theme: jekyll-theme-cayman
