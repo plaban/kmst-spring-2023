@@ -1,8 +1,8 @@
 # Site settings
 course_name: Big Data Processing (AI60004)
-course_description: "The course gives a comprehensive introduction to storing and processing `big data’ using modern big data
+course_description: "The course gives a comprehensive introduction to storing and processing ```big data``` using modern big data
 systems such as Map-reduce and Spark that run on large commodity clusters. The primary focus is on
-algorithm design and programming at `scale’ applied to all major domains: text, graph, streaming and
+algorithm design and programming at ```scale``` applied to all major domains: text, graph, streaming and
 relational data. The course also introduces scalable machine learning algorithms using Spark. The course will
 use Databricks cloud platform for hands-on demo. The students can use Databricks or any other cluster
 computing framework for their assignments."
