@@ -4,26 +4,22 @@ title: Course Materials
 permalink: /materials/
 ---
 
-{% include image.html url="/_images/Gnn_foundation.jpg" width=135 align="right" %}
-{% include image.html url="/_images/dl.jpg" width=135 align="right" %}
-{% include image.html url="/_images/grl.jpg" width=135 align="right" %}
-{% include image.html url="/_images/dl_on_graphs.jpg" width=135 align="right" %}
+{% include image.html url="/_images/SPARK.jpg" width=135 align="right" %}
+{% include image.html url="/_images/LSP.jpg" width=135 align="right" %}
+{% include image.html url="/_images/DIT.jpg" width=135 align="right" %}
+{% include image.html url="/_images/mmd.jpg" width=135 align="right" %}
 
 
-<h2 style="color: #da7b93;"><b>Books</b></h2>
+<h2 style="color: #ee4c7c;"><b>Books</b></h2>
 
-1. **Deep Learning on Graphs**, Yao Ma, Jiliang Tang, Cambridge University Press, 2021 **[[link]](https://web.njit.edu/~ym329/dlg_book/)**
-2. **Graph Representation Learning**, William L. Hamilton, Morgan & Claypool Publishers, 2020 **[[link]](https://www.cs.mcgill.ca/~wlh/grl_book/)**
-3. **Deep Learning**, Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press, 2016 **[[link]](https://www.deeplearningbook.org/)**
-4. **Graph Neural Networks**, Dr. Lingfei Wu, Dr. Peng Cui, Dr. Jian Pei, Dr. Liang Zhao, Springer Singapore, 2022 **[[link]](https://link.springer.com/book/10.1007/978-981-16-6054-2)**
+1. **Mining of Massive Datasets**,Jure Leskovec, Rajaraman and Ullman, Cambridge University Press, 2021 **[[link]](http://infolab.stanford.edu/~ullman/mmds/book.pdf)**
+2. **Data-Intensive Text Processing with MapReduce**, Chris Dyer and Jimmy Lin, 2010 **[[link]](https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf)**
+3. **Learning Spark**, Holden Karau, Andy Konwinski, Patrick Wendell and Matei Zaharia, O'Reilly Media, Inc., 2015 **[[link]](https://cs.famaf.unc.edu.ar/~damian/tmp/bib/Learning_Spark_Lightning-Fast_Big_Data_Analysis.pdf)**
+4. **Spark: The Definitive Guide: Big Data Processing Made Simple**, Bill Chambers and Matei Zaharia, O'Reilly Media, Inc., 2018 **[[link]](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)**
 
 -------------------------------------------------------------------------------------------------------------------------------
-<h2 style="color: #da7b93;"><b>Datasets</b></h2>
 
-1. **Open Graph Benchmarks**: **[[link]](https://ogb.stanford.edu/)**
-2. **Network Data**: **[[link]](https://networkrepository.com/networks.php)**
-
-<h2 style="color: #da7b93;"><b>Tools</b></h2>
+<h2 style="color: #ee4c7c;"><b>Tools</b></h2>
 
 1. **Libraries**
     - **NetworkX**:Network Analysis in Python **[[link]](https://networkx.org/)**
@@ -34,7 +30,6 @@ permalink: /materials/
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-<h2 style="color: #da7b93;"><b>Additional Course Material</b></h2>
+<h2 style="color: #ee4c7c;"><b>Additional Course Material</b></h2>
 
 * Additional Learning Material will be added as we move forward in the course
-* This section is Temporary: Material will be updated soon 
