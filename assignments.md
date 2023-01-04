@@ -3,9 +3,7 @@ layout: assignments
 title: Assignments
 permalink: /assignments/
 ---
-**Assignment Timeline Flowchart**
-
-![](/_images/assignment.jpg)
+**Assignment Timeline**
 
 **Key Points**
 
