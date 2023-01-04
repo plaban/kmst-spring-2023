@@ -3,21 +3,21 @@ layout: home
 ---
 <h2 style="color: #ee4c7c;"><b>Course Logistics</b></h2>
 
-- **Lecture Hours:** `Thursday [03:00 PM to 04:55 PM] (2 Hrs)` and `Friday [03:00 PM to 03:55 PM] (1 Hr)`.
+- **Lecture Hours:** `Monday [10:00 AM to 11:55 AM] (1 Hrs)` and `Wednesday [08:00 AM to 10:00 AM] (2 Hr)`.
 - **Classroom:** Classes will happen in person in the `NC-421`.
 - **L-T-P & Credits:** `3-0-0` & `3 Credits`.
 
 <h2 style="color: #ee4c7c;"><b>Mid-Semester Exam Schedule</b></h2>
 
-- **Exam Date:** `Thursday, 29-09-2022`.
-- **Time Slot:** `09:00 AM to 11:00 AM (2 Hrs)`.
-- **Venue:** `NC-122`.
+- **Exam Date:** 
+- **Time Slot:** 
+- **Venue:** 
 
 <h2 style="color: #ee4c7c;"><b>End-Semester Exam Schedule</b></h2>
 
-- **Exam Date:** `Friday, 25-11-2022`.
-- **Time Slot:** `02:00 PM to 05:00 PM (3 Hrs)`.
-- **Venue:** `NC-322`.
+- **Exam Date:** 
+- **Time Slot:**
+- **Venue:**
 
 <h2 style="color: #ee4c7c;"><b>Grading Policy</b></h2>
 - Semester Examinations:
@@ -28,7 +28,7 @@ layout: home
 
 <h2 style="color: #ee4c7c;"><b>Prerequisites</b></h2>
 
-- Deep Learning: Foundations and Applications (AI61002) or Deep Learning (CS60010)
+- Programming and Data Structure
 
 <h2 style="color: #ee4c7c;"><b>Honor Code</b></h2>
 Academic integrity is very important for us. You are required to follow the honor code to maintain academic integrity.
