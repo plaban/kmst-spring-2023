@@ -22,10 +22,10 @@ permalink: /materials/
 <h2 style="color: #ee4c7c;"><b>Tools</b></h2>
 
 1. **Libraries and Languages**
-    - **NetworkX**:Network Analysis in Python **[[link]](https://networkx.org/)**
-    - **Pytorch Geometric**: Pytorch Based GNN Library **[[link]](https://pytorch-geometric.readthedocs.io/en/latest/#)**
-    - **Deep Graph Library**: Pytorch and Tensorflow based GNN Library **[[link]](https://www.dgl.ai/)**
-    - **Spektral**: Python Based GNN Library **[[link]](https://graphneural.network/)**
+    - **Pythin**: Python programming language **[[link]](https://www.python.org/)**
+    - **Spark**: Data Science, Data Engineeringn and Machine Learning tool **[[link]](https://spark.apache.org/)**
+    - **Scala**: The Scala Programming Language **[[link]](https://www.scala-lang.org/)**
+    - **hadoop**: hadoop library framework **[[link]](https://hadoop.apache.org/)**
 
 
 --------------------------------------------------------------------------------------------------------------------------------
