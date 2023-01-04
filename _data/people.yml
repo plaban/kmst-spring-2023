@@ -1,7 +1,7 @@
 instructors:
-  - name: Plaban Kumar Bhowmick
-    profile_pic: /_images/pp/Pkb2.jpg
-    webpage: http://iitkgp.ac.in/department/GS/faculty/gs-plaban
+  - name: Jiaul Hoque Paik
+    profile_pic: /_images/pp/Piak sir.png
+    webpage: http://iitkgp.ac.in/department/GS/faculty/gs-jiaul
 
 
 teaching_assistants:
@@ -10,13 +10,6 @@ teaching_assistants:
     email: ainimesh1@gmail.com
     webpage: https://www.linkedin.com/in/animeshsachan/
   
-  - name: Sayantan Saha
-    profile_pic: /_images/pp/shyantan.jpg
-    email: sayantan.sh@gmail.com
-    webpage: https://www.linkedin.com/in/sayantan-saha-332a4440/
-
-  #- name: Nilanjan Mukharjee
-  #  profile_pic: /_images/pp/nilanjan.jpg
-  #  email: nmnilu6@gmail.com
-  #  webpage: 
+#  - name: Sayantan Saha
+   
     
