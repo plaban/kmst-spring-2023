@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<h2 style="color: #9a1750;"><b>Course Logistics</b></h2>
+<h2 style="color: #ee4c7c;"><b>Course Logistics</b></h2>
 
 - **Lecture Hours:** `Thursday [03:00 PM to 04:55 PM] (2 Hrs)` and `Friday [03:00 PM to 03:55 PM] (1 Hr)`.
 - **Classroom:** Classes will happen in person in the `NC-421`.
