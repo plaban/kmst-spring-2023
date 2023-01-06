@@ -1,14 +1,16 @@
-# Acknowledgement 
+# Web-Page for the Course "Big Data Processing : AI60004" offered by: IIT kharagpur
+
+## Acknowledgement 
 
 This template is heavily based on [svmiller / course-website](https://github.com/svmiller/course-website).
 
 Source : https://github.com/kazemnejad/jekyll-course-website-template
 
 
-# Demo
+## Demo
 Checkout for a working demo at [kazemnejad.github.io/jekyll-course-website-template/](https://kazemnejad.github.io/jekyll-course-website-template/). You may also want to see this real-world example at [iust-deep-learning.github.io/972](https://iust-deep-learning.github.io/972/) or [iust-courses.github.io/ai97/](https://iust-courses.github.io/ai97/) (Please note the last two examples are using the older version).
 
-# How to deploy your own website (on GitHub pages) 
+## How to deploy your own website (on GitHub pages) 
 1. Fork this repository.
 2. Open `_config.yml`.
    1. Update `url` field according to your GitHub account (e.g., `https://<your-github-username>.github.io/`).
@@ -18,7 +20,7 @@ Checkout for a working demo at [kazemnejad.github.io/jekyll-course-website-templ
 4. On GitHub Pages section, choose source to be your master branch, and enable Github Pages.
 5. You are now ready to go! Start customizing your website.
 
-# How to customize
+## How to customize
 
 ## Changing the names
 - Open `_config.yml`
@@ -45,18 +47,18 @@ type: lecture
 date: 20xx-xx-xxTx:xx:xx+4:30 
 title: <Title of this lecture>
 
-# optional
-# please use /static_files/notes directory to store notes
+## optional
+## please use /static_files/notes directory to store notes
 thumbnail: /static_files/path/to/image.jpg
 
-# optional
+# #optional
 tldr: "What is AI? How does it impact our lives? The current state of the art."
   
-# optional
-# set it to true if you dont want this lecture to appear in the updates section
+## optional
+## set it to true if you dont want this lecture to appear in the updates section
 hide_from_announcments: false
 
-# optional
+## optional
 links: 
     - url: /static_files/presentations/lec.zip
       name: notes
@@ -81,17 +83,17 @@ type: assignment
 date: 20xx-xx-xxTx:xx:xx+4:30
 title: <Assignment title (e.g. Assignment #1>
 
-# optional 
+## optional 
 pdf: /static_files/assignments/assign_01.pdf
 
-# optional
+## optional
 solutions: /static_files/assignments/assign_01_solutions.pdf
 
-# optional
+## optional
 attachment: /static_files/assignments/assign_01_attachment.zip
 
-# optional
-# set it to true if you don't want this assignment to appear in the announcements section
+## optional
+## set it to true if you don't want this assignment to appear in the announcements section
 hide_from_announcments: false
 
 due_event: 
@@ -110,8 +112,8 @@ type: due
 date: 20xx-xx-xxTx:xx:xx+4:30
 description: <Description of deadline (e.g. 'Final report due')>
 
-# optional
-# set it to true if you don't want this event to appear in the announcements section
+## optional
+## set it to true if you don't want this event to appear in the announcements section
 hide_from_announcments: false
 ---
 ```
@@ -124,8 +126,8 @@ type: exam
 date: 20xx-xx-xxTx:xx:xx+4:30
 description: <Description of the exam (e.g. 'The midterm exam')>
 
-# optional
-# set it to true if you don't want to this event appear in the announcements section
+## optional
+## set it to true if you don't want to this event appear in the announcements section
 hide_from_announcments: false
 ---
 ```
@@ -139,12 +141,12 @@ name: <Event name>
 date: 20xx-xx-xxTx:xx:xx+4:30
 description: <Event description>
 
-# optional
-# if you want to hide time in Schedule, set this to true
+## optional
+## if you want to hide time in Schedule, set this to true
 hide_time: false
 
-# optional
-# set it to true if you don't want this event appear to in the announcements section
+## optional
+## set it to true if you don't want this event appear to in the announcements section
 hide_from_announcments: false
 ---
 <!-- you can create custom content using markdown. this section will be placed in "Course Materials (in schedule section)" -->
