@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Hands-on
+title: Tutorials
 permalink: /lectures/
 ---
-All the hands-on videos and tutorials will be posted here.
+All the imformation about tutorials will be posted here.
