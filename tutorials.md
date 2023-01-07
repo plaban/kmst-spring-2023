@@ -1,6 +1,6 @@
 ---
 layout: lectures
 title: Tutorials
-permalink: /lectures/
+permalink: /tutorials/
 ---
 All the imformation about tutorials will be posted here.
