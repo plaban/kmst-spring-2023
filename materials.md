@@ -12,8 +12,9 @@ permalink: /materials/
 
 <h2 style="color: #ee4c7c;"><b>Books</b></h2>
 
-1. **Mining of Massive Datasets**,Jure Leskovec, Rajaraman and Ullman, Cambridge University Press, 2021 **[[link]](http://infolab.stanford.edu/~ullman/mmds/book.pdf)**
-2. **Data-Intensive Text Processing with MapReduce**, Chris Dyer and Jimmy Lin, 2010 **[[link]](https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf)**
+1. **Foundations of Semantic Web Technologies**, Pascal Hitzler, Markus Krotzsch, Sabastian Rudolph, CRC Press, 2009 **[[link]](https://www.semantic-web-book.org/)**
+2. **The Semantic Web Explained: The Technology and Mathematics behind Web 3.0**, Peter Szeredi, Gergely Lukacsy, Tamas Benko, Cambridge University Press, 2014 **[[link]](https://www.cambridge.org/core/books/semantic-web-explained/FE9DFBD2C43245B6594535D2C8BA27D3)**
+3. **Semantic Web for the Working Ontologist**, James Hendler, Fabien Gandon, Dean Allemang, Association of Computing Machinery, 2020 **[[link]](https://dl.acm.org/doi/book/10.1145/3382097)**
 
 
 -------------------------------------------------------------------------------------------------------------------------------
