@@ -1,15 +1,12 @@
 # Site settings
-course_name: Big Data Processing (AI60004)
-course_description: "The course gives a comprehensive introduction to storing and processing big data using modern big data
-systems such as Map-reduce and Spark that run on large commodity clusters. The primary focus is on
-algorithm design and programming at scale applied to all major domains: text, graph, streaming and
-relational data. The course also introduces scalable machine learning algorithms using Spark. The course will
-use Databricks cloud platform for hands-on demo. The students can use Databricks or any other cluster
-computing framework for their assignments."
+course_name: Knowledge Modelling and Semantic Web Technologies (AI60008)
+course_description: "Knowledge modelling is a process of formalizing the knowledge of a domain through formal knowledge representation frameworks. Among many other knowledge driven systems, knowledge modelling through ontology has helped in embedding semantics to current hypertext-based web and several real-world applications from diverse domains. The semantic web vision has shown enormous promise to revolutionize current World Wide Web dramatically. This vision rides on the idea of embedding semantics of web data so that the contents become amenable to machine processing. Driving technologies in semantic web vision include explicit metadata, ontologies, formal logic, inferencing and intelligent agents. Huge potential and advantages of semantic web have sparked significant interest in industry and government. 
+This course aims at developing foundations in semantic web technology addressing web scale semantic knowledge modelling techniques and related programming paradigms and application case studies.
+"
 
 course_semester: "Spring,2022-23"
 
-baseurl: "/bdp-ai60004" # the subpath of your site, e.g. /blog/
+baseurl: "/kmst-spring-2023" # the subpath of your site, e.g. /blog/
 url: "http://ainimesh.github.io/" # the base hostname & protocol for your site
 
 schoolname: "CoE-AI, IIT Kharagpur"
