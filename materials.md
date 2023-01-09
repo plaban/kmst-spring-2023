@@ -14,8 +14,7 @@ permalink: /materials/
 
 1. **Mining of Massive Datasets**,Jure Leskovec, Rajaraman and Ullman, Cambridge University Press, 2021 **[[link]](http://infolab.stanford.edu/~ullman/mmds/book.pdf)**
 2. **Data-Intensive Text Processing with MapReduce**, Chris Dyer and Jimmy Lin, 2010 **[[link]](https://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf)**
-3. **Learning Spark**, Holden Karau, Andy Konwinski, Patrick Wendell and Matei Zaharia, O'Reilly Media, Inc., 2015 **[[link]](https://cs.famaf.unc.edu.ar/~damian/tmp/bib/Learning_Spark_Lightning-Fast_Big_Data_Analysis.pdf)**
-4. **Spark: The Definitive Guide: Big Data Processing Made Simple**, Bill Chambers and Matei Zaharia, O'Reilly Media, Inc., 2018 **[[link]](https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/)**
+
 
 -------------------------------------------------------------------------------------------------------------------------------
 

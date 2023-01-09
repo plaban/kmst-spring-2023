@@ -1,17 +1,17 @@
 instructors:
-  - name: Plaban kumar Bhowmick
-    profile_pic: /_images/pp/Pkb2.png
+  - name: Plaban Kumar Bhowmick
+    profile_pic: /_images/pp/Pkb2.jpg
     email: plaban@cet.iitkgp.ac.in
     webpage: http://iitkgp.ac.in/department/GS/faculty/gs-plaban
 
 
 teaching_assistants:
   - name: Poonam
-    profile_pic: /_images/pp/ani.jpg
-    email: ainimesh1@gmail.com
-    webpage: https://www.linkedin.com/in/animeshsachan/
+    profile_pic: /_images/pp/inst.jpg
+    email: 
+    webpage: 
   
   - name: Shubhankar Maity
-    profile_pic: /_images/pp/dumbledore.jpg
+    profile_pic: /_images/pp/inst.jpg
     email: abcd@gmail.com
     webpage:     

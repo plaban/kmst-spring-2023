@@ -13,7 +13,7 @@ There will be only one assignment. Please follow the below given instructions:
 
 
 <h2>Topics for Assignment</h2>
-<!--- <p>Click on PDF to open the file: <a title="Download problems (pdf)" href="https://drive.google.com/file/d/1_JRu1NF-f5HPyhz7HcFCxB7VeERGT9or/view?usp=sharing"><i class="fas fa-file-pdf"></i></a></p>
+
 
 
 <h2>Group Allocation and Assignment Topic Allocation</h2>
