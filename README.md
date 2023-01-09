@@ -1,4 +1,4 @@
-# Web-Page for the Course "Big Data Processing : AI60004" offered by: IIT kharagpur
+# Web-Page for the Course "Knowledge Modelling and Semantic Web Technologies: AI60008" offered by: IIT kharagpur
 
 ## Acknowledgement 
 
