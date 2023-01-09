@@ -1,34 +1,17 @@
 instructors:
   - name: Jiaul Hoque Paik
-    profile_pic: /_images/pp/Piak sir.png
-    email: jiaul@cet.iitkgp.ac.in
-    webpage: http://iitkgp.ac.in/department/GS/faculty/gs-jiaul
+    profile_pic: /_images/pp/Pkb2.png
+    email: plaban@cet.iitkgp.ac.in
+    webpage: http://iitkgp.ac.in/department/GS/faculty/gs-plaban
 
 
 teaching_assistants:
-  - name: Animesh
+  - name: Poonam
     profile_pic: /_images/pp/ani.jpg
     email: ainimesh1@gmail.com
     webpage: https://www.linkedin.com/in/animeshsachan/
   
-  - name: Subhajit
+  - name: Shubhankar Maity
     profile_pic: /_images/pp/dumbledore.jpg
     email: abcd@gmail.com
-    webpage: 
-
-  - name: RajKrishna
-    profile_pic: /_images/pp/dumbledore.jpg
-    email: abcd@gmail.com
-    webpage: 
-  
-  - name: Anupam
-    profile_pic: /_images/pp/anupam.jpg
-    email: abcd@gmail.com
-    webpage: https://www.linkedin.com/in/anupam-borthakur-b85000185/?originalSubdomain=in
-  
-  - name: Raktima
-    profile_pic: /_images/pp/mcgonagall.jpg
-    email: abcd@gmail.com
-    webpage: 
-  
-    
+    webpage:     
