@@ -23,7 +23,7 @@ layout: home
 - Semester Examinations:
     - Mid-Semester Examination: [30%]
     - End-Semester Examination: [40%]
-- Assignment: [30%]
+- Assignment+Surprize Quiz+Project: [30% (10+5+15)]
 
 
 <h2 style="color: #ee4c7c;"><b>Prerequisites</b></h2>

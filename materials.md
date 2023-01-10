@@ -28,10 +28,10 @@ permalink: /materials/
     - **Protege**: OWL Ontology Development Tool **[[link]](https://protege.stanford.edu/)**
 
 2. **Semantic Data Sources**
-    - ** Wikidata**: Crowd-sourced Structured Knowledge by Wikimedia Foundation **[[link]](wikidata.org/)**
-    - ** Dbpedia**: Structured data extracted from Wikipedia infobox **[[link]](dbpedia.org/)**
-    - ** LoD Cloud**: Linked open data cloud **[[link]](https://lod-cloud.net/)**
-    - ** More as we explore the course
+    - **Wikidata**: Crowd-sourced Structured Knowledge by Wikimedia Foundation **[[link]](wikidata.org/)**
+    - **Dbpedia**: Structured data extracted from Wikipedia infobox **[[link]](dbpedia.org/)**
+    - **LoD Cloud**: Linked open data cloud **[[link]](https://lod-cloud.net/)**
+    - **More as we explore the course**
     
     
 
