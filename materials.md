@@ -21,11 +21,19 @@ permalink: /materials/
 
 <h2 style="color: #ee4c7c;"><b>Tools</b></h2>
 
-1. **Libraries and Languages**
+1. **Libraries, Languages and Tools**
     - **Pythin**: Python programming language **[[link]](https://www.python.org/)**
-    - **Spark**: Data Science, Data Engineeringn and Machine Learning tool **[[link]](https://spark.apache.org/)**
-    - **Scala**: The Scala Programming Language **[[link]](https://www.scala-lang.org/)**
-    - **hadoop**: hadoop library framework **[[link]](https://hadoop.apache.org/)**
+    - **RDF Processing**: RDFLib Library **[[link]](https://github.com/RDFLib/rdflib)**
+    - **SPARQL**: Apache Jena ARQ **[[link]](https://jena.apache.org/documentation/query/)**
+    - **Protege**: OWL Ontology Development Tool **[[link]](https://protege.stanford.edu/)**
+
+2. **Semantic Data Sources**
+    - ** Wikidata**: Crowd-sourced Structured Knowledge by Wikimedia Foundation **[[link]](wikidata.org/)**
+    - ** Dbpedia**: Structured data extracted from Wikipedia infobox **[[link]](dbpedia.org/)**
+    - ** LoD Cloud**: Linked open data cloud **[[link]](https://lod-cloud.net/)**
+    - ** More as we explore the course
+    
+    
 
 
 --------------------------------------------------------------------------------------------------------------------------------
